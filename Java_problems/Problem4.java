@@ -1,3 +1,4 @@
+//Diamond star patten
 class Problem4 {
     public static void main(String[] args) {
         int n = 5;
