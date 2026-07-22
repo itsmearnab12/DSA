@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1260-shift-2d-grid](https://github.com/itsmearnab12/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmearnab12/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Matrix
 |  |
 | ------- |
