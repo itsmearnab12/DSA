@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsmearnab12/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/itsmearnab12/DSA/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/itsmearnab12/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/itsmearnab12/DSA/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsmearnab12/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/itsmearnab12/DSA/tree/master/2390-removing-stars-from-a-string) |
