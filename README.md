@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/itsmearnab12/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/itsmearnab12/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsmearnab12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmearnab12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmearnab12/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsmearnab12/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsmearnab12/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -154,4 +156,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/itsmearnab12/DSA/tree/master/0141-linked-list-cycle) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
