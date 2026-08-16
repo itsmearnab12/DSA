@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsmearnab12/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/itsmearnab12/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmearnab12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/itsmearnab12/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsmearnab12/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/itsmearnab12/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmearnab12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/itsmearnab12/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/itsmearnab12/DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
