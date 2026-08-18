@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsmearnab12/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsmearnab12/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itsmearnab12/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsmearnab12/DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsmearnab12/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmearnab12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmearnab12/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
