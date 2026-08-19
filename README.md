@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsmearnab12/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsmearnab12/DSA/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itsmearnab12/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/itsmearnab12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/itsmearnab12/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmearnab12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -161,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/itsmearnab12/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsmearnab12/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/itsmearnab12/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmearnab12/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/itsmearnab12/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Pigeonhole Principle
 |  |
@@ -217,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/itsmearnab12/DSA/tree/master/0206-reverse-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
