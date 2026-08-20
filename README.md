@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/itsmearnab12/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmearnab12/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsmearnab12/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/itsmearnab12/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmearnab12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/itsmearnab12/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/itsmearnab12/DSA/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/itsmearnab12/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/itsmearnab12/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
