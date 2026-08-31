@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmearnab12/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsmearnab12/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/itsmearnab12/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmearnab12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itsmearnab12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsmearnab12/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/itsmearnab12/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmearnab12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/itsmearnab12/DSA/tree/master/0414-third-maximum-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/itsmearnab12/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/itsmearnab12/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/itsmearnab12/DSA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/itsmearnab12/DSA/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsmearnab12/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/itsmearnab12/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsmearnab12/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/itsmearnab12/DSA/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsmearnab12/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsmearnab12/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
