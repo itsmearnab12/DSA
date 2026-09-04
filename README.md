@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/itsmearnab12/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmearnab12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/itsmearnab12/DSA/tree/master/1510-stone-game-iv) |
