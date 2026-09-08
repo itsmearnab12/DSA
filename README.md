@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmearnab12/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsmearnab12/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmearnab12/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/itsmearnab12/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsmearnab12/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsmearnab12/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
