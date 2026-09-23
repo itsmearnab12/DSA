@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/itsmearnab12/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/itsmearnab12/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmearnab12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/itsmearnab12/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmearnab12/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsmearnab12/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsmearnab12/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/itsmearnab12/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmearnab12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/itsmearnab12/DSA/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/itsmearnab12/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmearnab12/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/itsmearnab12/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/itsmearnab12/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/itsmearnab12/DSA/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsmearnab12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmearnab12/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsmearnab12/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/itsmearnab12/DSA/tree/master/0229-majority-element-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmearnab12/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsmearnab12/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/itsmearnab12/DSA/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
